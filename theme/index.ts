@@ -6,4 +6,9 @@ export const lightColors = {
     primaryColor: "#4894FE",
     secondaryColor: "#eff7ff",
   },
+  ListsScreen: {
+    card: {
+      backgroundColor: "#f4f4f4",
+    },
+  },
 };
